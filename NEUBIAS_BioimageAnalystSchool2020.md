@@ -11,9 +11,15 @@ Organizers: Marion Louveaux & Kota Miura
 
 The aim of NEUBIAS Bioimage Analyst School is to provide **bioimage analysts** with practical access to the latest bioimage analysis workflows and their components [1]. Many tools for bioimage analysis are updated and new ones are appearing on daily basis, but analysts tend to be constrained to what one knows already. They are too busy to test and use all those new tools. We hope that this school will be a good chance for analysts to test something new by the exposure to workflows and their components, and also to widen their scope and broaden their skills. In addition to this primary aim, the school also aims for the community buidling amond bioimage analysis experts - it's always good to have friends with similar interests!
 
-The program is evolving every year. The program in Bordeaux is designed based on the experiences in three prvious schools in Lisbon (2017), Szeged (2018) and Luxembourg (2019). As many of the participants commented that we need to have more modules with statistical treatments of data, we will have a stronger focus on those aspects in this school.  The school is followed by a half-day "**BioImage Analyst Satellite Meeting**", accepting more participants than the school, where bioimage analysts exchange practical information and discuss in a non-formal interactive sessions. 
+The program is evolving every year. The program in Bordeaux is designed based on the experiences in three prvious schools in Lisbon (2017), Szeged (2018) and Luxembourg (2019). As many of the participants commented that we need to have more modules with statistical treatments of data, we will have a stronger focus on those aspects in this school, especially in the context of recent announcements from the statistics community [2-4].  The school is followed by a half-day "**BioImage Analyst Satellite Meeting**", accepting more participants than the school, where bioimage analysts exchange practical information and discuss in a non-formal interactive sessions. 
 
-[1] 
+[1] Miura, Paul-Gilloteaux, Tosi, & Julien Colombelli. “Workflows and Components of Bioimage Analysis.” In Bioimage Data Analysis Workflows, edited by Kota Miura and Nataša Sladoje, 1–7. Learning Materials in Biosciences. Cham: Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-22386-1_1.
+
+[2] [The ASA Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.XInvWyPMzyW)
+
+[3] [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9)
+
+[4] [The Significant Problem of P Values](https://www.scientificamerican.com/article/the-significant-problem-of-p-values/)
 
 ## Place and Time
 
@@ -33,7 +39,7 @@ Feb 29 (Sat), 11:00  - Mar 3 (Tue) 13:00, 2019
 | Morning 2 | Workflow lecture                      | Components                               | Components                               | Presentations  |
 | Afternoon | Workflow Deconstruction by the Author | API beating / Implementation by students | API beating / Implementation by students |                |
 
-The school is based on the concepts of "workflows and components" in bioimage analysis ([more details here](https://www.authorea.com/users/90123/articles/211121-workflows-and-components-of-bioimage-analysis-the-neubias-concept)) and will be with four types of modules: **Workflow Deconstruction**, **Advanced Usage of Workflow Components**, and **Implementation**. 
+The school is based on the concepts of "workflows and components" in bioimage analysis ([more details here](https://link.springer.com/chapter/10.1007/978-3-030-22386-1_1)) and will be with four types of modules: **Workflow Deconstruction**, **Advanced Usage of Workflow Components**, and **Implementation**. 
 
 In **Workflow Deconstruction**, we reproduce, trace and modify bioimage analysis workflows. Invited author of the selected workflow present the bioimage analysis workflow in details: the biological problem, algorithms of components including statistical analysis, how they are assembled into the workflow to output either numbers, plots or visualization results. In parallel with these explanations, participants will load those components and reproduce the workflow on their own laptop (reproduce the workflow). Interactive discussion on following points will be moderated.
 
@@ -76,9 +82,8 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 ## Workflow Deconstruction: Details
 
-- Invited Author: - Julius Hossein, EMBL Heidelberg
-   - <img src="./img/JuliusHossain.jpg" width="200">
-- Details of [Preparation and Homeworks](Julius_Construction_additional_details.md)
+- Invited Author: - 
+- Details of [Preparation and Homeworks]()
 - Concepts
 
    - Tracing the workflow, starting with sample image data, understand the biological problem, do image processing and data analysis, ends up in numbers, plots or visualizations. 
