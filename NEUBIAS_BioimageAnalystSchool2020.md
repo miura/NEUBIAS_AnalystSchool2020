@@ -79,10 +79,10 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 ## Workflow Deconstruction: Details
 
-- IThis year, [Stéphane Verger](https://www.upsc.se/researchers/5435-verger-stephane-mechanics-and-dynamics-of-cell-to-cell-adhesion-in-plants.html) will guide us through the Workflow in the following paper:
+- This year, [Stéphane Verger](https://www.upsc.se/researchers/5435-verger-stephane-mechanics-and-dynamics-of-cell-to-cell-adhesion-in-plants.html) will guide us through the Workflow in the following paper:
    - The paper
-     - Erguvan, O., Louveaux, M., Hamant, O., Verger, S. (2019) ImageJ SurfCut: a user-friendly pipeline for high-throughput extraction of cell contours from 3D image stacks. BMC Biology, 17:38.
-     - https://doi.org/10.1186/s12915-019-0657-1
+     - **Verger, S.**, Long, Y., Boudaoud, A., Hamant, O. (2018). **A tension-adhesion feedback loop in plant epidermis.** eLife. 7, e34460. (https://elifesciences.org/articles/34460)
+     - Erguvan, O., **Louveaux, M**., Hamant, O., **Verger, S**. (2019) ImageJ SurfCut: a user-friendly pipeline for high-throughput extraction of cell contours from 3D image stacks. BMC Biology, 17:38. (https://doi.org/10.1186/s12915-019-0657-1)
 - Details of [Preparation and Homeworks]()
 
 
@@ -116,7 +116,6 @@ School participants are asked to present their implementations (by group) on the
 Partially tentaive...
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200"></iframe>
-
 
 
 It's going to be great!
