@@ -31,13 +31,16 @@ Bordeaux, France
 
 Feb 29 (Sat), 11:00  - Mar 3 (Tue) 13:00, 2019
 
+- Registration starts from 10:00 on the first day
+
 ## The program 
 
-|           | Day 1 (Feb. 29)                       | Day 2 (Mar. 1)                           | Day 3 (Mar. 2)                           | Day 4 (Mar. 3) |
-| --------- | ------------------------------------- | ---------------------------------------- | ---------------------------------------- | -------------- |
-| Morning 1 | Intro                                 | Lecture                                  | Lecture                                  | Presentations  |
-| Morning 2 | Workflow lecture                      | Components                               | Components                               | Presentations  |
-| Afternoon | Workflow Deconstruction by the Author | API beating / Implementation by students | API beating / Implementation by students |                |
+|             | Day 1 (Feb. 29)                            | Day 2 (Mar. 1)                      | Day 3 (Mar. 2)                              | Day 4 (Mar. 3) |
+| ----------- | ------------------------------------------ | ----------------------------------- | ------------------------------------------- | -------------- |
+| Morning 1   | Introduction                               | Statistics / Marten Postma          | Machine Learning / Ignacio Arganda-Carreras | Presentations  |
+| Morning 2   | Workflow lecture, Stéphane Verger          | continued                           | continued                                   | Presentations  |
+| Afternoon 1 | Workflow Deconstruction by Stéphane Verger | Python Data Analysis / Plotting     | Selected Workflow Presented by Students     | (Forum)        |
+| Afternoon 2 | continued.                                 | Workflow Deconstruction by students | Workflow Deconstruction by students         | (Forum)        |
 
 The school is based on the concepts of "workflows and components" in bioimage analysis ([more details here](https://link.springer.com/chapter/10.1007/978-3-030-22386-1_1)) and will be with four types of modules: **Workflow Deconstruction**, **Advanced Usage of Workflow Components**, and **Implementation**. 
 
@@ -46,20 +49,14 @@ In **Workflow Deconstruction**, we reproduce, trace and modify bioimage analysis
 - Used components and algorithms
 - The overall design of the workflow
 - Reuse of certain component blocks for different biological problems
-- Capability of running the workflow in various environments 
-
-This year, [John Doe)]() will guide us through the Workflow in the following paper:
-
-- The paper
-  - John Doe
-  - https://www.nature.com/articles/s41586-018-0518-z
+- Capability of running the workflow in various environments
+- Tracing the workflow, starting with sample image data, understand the biological problem, do image processing and data analysis, ends up in numbers, plots or visualizations. 
+- Explanation for each step (or each component) are given and interesting algorithms are picked up and discussed in details. 
+- Each participant uses ones own laptop to reproduce / modify the workflow
+- Interactions: questions on components, a proposal for alternative solutions, discussion on capability in other ecosystems. 
+- Invited "workflow authors" + Selected "workflow authors" from applicants (registration form should include an abstract of submission of interesting workflow) 
 
 In **Advanced Usage of Workflow Components**, invited experts present in-depth explanation about workflow components, and explain effcient access to the API (We call this **API-beating**). This training is aiming to encourage participants to expand their skill and technique to utilize cutting-edge components in their workflow they construct in future. 
-
-This year we will learn about:
-- TBA
-- TBA
-- TBA
 
 In **Implementation**, participants are split into several groups, and each group implements one of the following issues:
 
@@ -82,29 +79,27 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 ## Workflow Deconstruction: Details
 
-- Invited Author: - 
+- IThis year, [Stéphane Verger](https://www.upsc.se/researchers/5435-verger-stephane-mechanics-and-dynamics-of-cell-to-cell-adhesion-in-plants.html) will guide us through the Workflow in the following paper:
+   - The paper
+     - Erguvan, O., Louveaux, M., Hamant, O., Verger, S. (2019) ImageJ SurfCut: a user-friendly pipeline for high-throughput extraction of cell contours from 3D image stacks. BMC Biology, 17:38.
+     - https://doi.org/10.1186/s12915-019-0657-1
 - Details of [Preparation and Homeworks]()
-- Concepts
-
-   - Tracing the workflow, starting with sample image data, understand the biological problem, do image processing and data analysis, ends up in numbers, plots or visualizations. 
-   - Explanation for each step (or each component) are given and interesting algorithms are picked up and discussed in details. 
-   - Each participant uses ones own laptop to reproduce / modify the workflow
-   - Interactions: questions on components, a proposal for alternative solutions, discussion on capability in other ecosystems. 
-   - Invited "workflow authors" + Selected "workflow authors" from applicants (registration form should include an abstract of submission of interesting workflow)
 
 
 ## Advanced Workflow Components: Details
 
 
-###  Topic 1
+###  Topic 1: Dealing with Numbers: Statistics
 
-- TBA
+- Lead: [Marten Postma](https://research.vu.nl/en/persons/marten-postma)
 
-### Topic 2
+### Topic 2: Python Data Analysis / Plotting Libraries
 
-- TBA
+- Lead: [Arianne Bercowsky Rama](https://people.epfl.ch/arianne.bercowskyrama?lang=en) 
   
-  ...
+### Topic3: Machine Leraning / Deep Learning
+
+  - Lead: [Ignacio Arganda-Carreras](https://sites.google.com/site/iargandacarreras/) 
 
 ## Workflows, Student Presentations
 
@@ -115,15 +110,12 @@ Some workflows submitted by participants during registration will be selected fo
 
 School participants are asked to present their implementations (by group) on the last day of the school. 7 groups, 15 minutes presentation + 5 minutes questions and answers. 
 
- 
 
 ## Time Table
 
-Below is the  schedule from the last year: It will be replaced. 
+Partially tentaive...
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXTjpLEt060RJNGfWT4eAp6Sji_iRpIXGWfOxUItUBvFTdaJpV6eZwdR5JxQ0XER_4evki8gMfJlJe/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200"></iframe>
-
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200"></iframe>
 
 
 
