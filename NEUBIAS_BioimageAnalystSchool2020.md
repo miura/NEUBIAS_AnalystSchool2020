@@ -1,5 +1,3 @@
-![NEUBIAS](http://eubias.org/NEUBIAS/wp-content/uploads/2016/12/NEUBIAS_COST_Logos.png)
-
 # NEUBIAS Bioimage Analyst School 2020
 
 Dates: Feb. 29 - Mar.3, 2019
@@ -24,17 +22,26 @@ The program is evolving every year. The program in Bordeaux is designed based on
 
 4. [The Significant Problem of P Values](https://www.scientificamerican.com/article/the-significant-problem-of-p-values/)
 
+![NEUBIAS](http://eubias.org/NEUBIAS/wp-content/uploads/2016/12/NEUBIAS_COST_Logos.png)
+
 ## Place and Time
 
 ### Place
 
-Bordeaux, France 
+[Centre Broca Nouvelle-Aquitaine](https://www.bordeaux-neurocampus.fr/)
 
+Bordeaux, France: [Google Map](https://goo.gl/maps/8hU1FyiToT3Nny4c6)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45277.46375575833!2d-0.642675486419145!3d44.82479387899598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd54d8716928ac87%3A0x7e5eeebd95bcb30d!2sCenter%20Broca%20Nouvelle-Aquitaine!5e0!3m2!1sen!2sde!4v1574854999325!5m2!1sen!2sde" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 ### Time
 
 Feb 29 (Sat), 11:00  - Mar 3 (Tue) 13:00, 2019
 
 - Registration starts from 10:00 on the first day
+
+### Links
+
+- [The school page @ neubias.org](http://eubias.org/NEUBIAS/training-schools/analysts/ts15-bordeaux-2020/) - please register via this link. 
 
 ## The program 
 
@@ -131,5 +138,4 @@ School participants are asked to present their implementations (by group) on the
 Partially tentaive ( [google sheet link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&single=true) )
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200"></iframe>
-
 It's going to be great!
