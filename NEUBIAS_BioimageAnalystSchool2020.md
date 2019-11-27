@@ -55,13 +55,9 @@ In **Workflow Deconstruction**, we first reproduce the workflow instructed by th
 - Components and algorithms used: discuss alternatives
 - The overall design of the workflow: could there be better ways, better tools?
 
-Finally, participans work by groups, to do modifications / replacements / implement / benchmark based on their own idea.  for example:
-
-- 
-
 In **Advanced Usage of Workflow Components**, invited experts present in-depth explanation about workflow components, and explain effcient access to the API (We call this **API-beating**). This training is aiming to encourage participants to expand their skill and technique to utilize cutting-edge components in their workflow they construct in future. 
 
-In **Implementation**, participants are split into several groups, and each group make trials based on their own idea to do modifications / replacements / benchmarking. For example:
+In **Worlflow Deconstruction by Students**, participants are split into several groups, and each group make trials based on their own idea to do modifications / replacements / benchmarking. For example:
 
 1. The full workflow running in different ecosystems
 2. a part of the workflow replaced with a different component.
