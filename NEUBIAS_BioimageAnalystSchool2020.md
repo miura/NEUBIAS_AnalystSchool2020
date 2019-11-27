@@ -44,26 +44,30 @@ Feb 29 (Sat), 11:00  - Mar 3 (Tue) 13:00, 2019
 
 The school is based on the concepts of "workflows and components" in bioimage analysis ([more details here](https://link.springer.com/chapter/10.1007/978-3-030-22386-1_1)) and will be with four types of modules: **Workflow Deconstruction**, **Advanced Usage of Workflow Components**, and **Implementation**. 
 
-In **Workflow Deconstruction**, we reproduce, trace and modify bioimage analysis workflows. Invited author of the selected workflow present the bioimage analysis workflow in details: the biological problem, algorithms of components including statistical analysis, how they are assembled into the workflow to output either numbers, plots or visualization results. In parallel with these explanations, participants will load those components and reproduce the workflow on their own laptop (reproduce the workflow). Interactive discussion on following points will be moderated.
+In **Workflow Deconstruction**, we first reproduce the workflow instructed by the author. 
 
-- Used components and algorithms
-- The overall design of the workflow
-- Reuse of certain component blocks for different biological problems
-- Capability of running the workflow in various environments
 - Tracing the workflow, starting with sample image data, understand the biological problem, do image processing and data analysis, ends up in numbers, plots or visualizations. 
 - Explanation for each step (or each component) are given and interesting algorithms are picked up and discussed in details. 
 - Each participant uses ones own laptop to reproduce / modify the workflow
-- Interactions: questions on components, a proposal for alternative solutions, discussion on capability in other ecosystems. 
-- Invited "workflow authors" + Selected "workflow authors" from applicants (registration form should include an abstract of submission of interesting workflow) 
+
+ Interactive discussion on following points will be moderated.
+
+- Components and algorithms used: discuss alternatives
+- The overall design of the workflow: could there be better ways, better tools?
+
+Finally, participans work by groups, to do modifications / replacements / implement / benchmark based on their own idea.  for example:
+
+- 
 
 In **Advanced Usage of Workflow Components**, invited experts present in-depth explanation about workflow components, and explain effcient access to the API (We call this **API-beating**). This training is aiming to encourage participants to expand their skill and technique to utilize cutting-edge components in their workflow they construct in future. 
 
-In **Implementation**, participants are split into several groups, and each group implements one of the following issues:
+In **Implementation**, participants are split into several groups, and each group make trials based on their own idea to do modifications / replacements / benchmarking. For example:
 
-1. Modification of workflows presented in the school, for either 
-   1. the full workflow running in different ecosystems
-   2. a part of the workflow replaced with a different component. 
-2. Comparison and benchmarking of workflow components with similar algorithms. The target components should be selected by each group.
+1. The full workflow running in different ecosystems
+2. a part of the workflow replaced with a different component.
+3. Reuse of certain component blocks for different biological problems
+4. Implementing some components in other language and compare the performance
+5. Alternative workflow, solutions, discussion on capability in other ecosystems, tools or approaches.  
 
 ## Participation Requirements
 
@@ -77,7 +81,7 @@ We expect some fluency in at least one programming language. We do not teach cod
 
 During registration, the applicant is asked to submit at least one bioimage analysis workflow that one has authored / worked on (starting with a specific biological question, describe the workflow in a short paragraph and the type of results: numbers, plots and/or visualization - does not have to be a published paper). Among these applicants, some are selected for presentation as "Workflow Deconstruction" session and lead the session. 
 
-## Workflow Deconstruction: Details
+## Workflow Deconstruction
 
 - This year, [Stéphane Verger](https://www.upsc.se/researchers/5435-verger-stephane-mechanics-and-dynamics-of-cell-to-cell-adhesion-in-plants.html) will guide us through the Workflow in the following paper:
    - The paper
@@ -86,20 +90,32 @@ During registration, the applicant is asked to submit at least one bioimage anal
 - Details of [Preparation and Homeworks]()
 
 
-## Advanced Workflow Components: Details
+## Advanced Workflow Components
 
 
-###  Topic 1: Dealing with Numbers: Statistics
+###  1: Dealing with Numbers: Statistics
 
-- Lead: [Marten Postma](https://research.vu.nl/en/persons/marten-postma)
+- Lead: [Marten Postma](http://www.martenpostma.nl/science/)
+- Topics (tentative)
+  - Accuracy of measurements) 
+  - Standard deviation vs standard error 
+  - How to deal with pooled mean values 
+  - How many samples (n) do we need? 
+  - Where is the variance coming from? biological systems, measurement error or the analysis?
+  - Computation of confidence interval. 
+  - Surviving the post p-values era
 
-### Topic 2: Python Data Analysis / Plotting Libraries
+### 2: Python Data Analysis / Plotting Libraries
 
 - Lead: [Arianne Bercowsky Rama](https://people.epfl.ch/arianne.bercowskyrama?lang=en) 
   
-### Topic3: Machine Leraning / Deep Learning
+### 3: Machine Leraning / Deep Learning
 
   - Lead: [Ignacio Arganda-Carreras](https://sites.google.com/site/iargandacarreras/) 
+  - Topics (tentative)
+      - Overview, Machine Learning & Deep Learning
+      - Tweeking Advanced Weka Segmentation
+      - DeepIJ with normal computational resources
 
 ## Workflows, Student Presentations
 
