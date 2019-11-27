@@ -5,7 +5,10 @@
 Dates: Feb. 29 - Mar.3, 2019
 Place: Bordeaux
 
-Organizers: Marion Louveaux & Kota Miura
+Organizers: 
+
+- Marion Louveaux (Institut Pasteur, France) 
+- Kota Miura (Heidelberg University, Germany)
 
 ## Aim
 
@@ -35,14 +38,14 @@ Feb 29 (Sat), 11:00  - Mar 3 (Tue) 13:00, 2019
 
 ## The program 
 
-|             | Day 1 (Feb. 29)                            | Day 2 (Mar. 1)                      | Day 3 (Mar. 2)                              | Day 4 (Mar. 3) |
-| ----------- | ------------------------------------------ | ----------------------------------- | ------------------------------------------- | -------------- |
-| Morning 1   | Introduction                               | Statistics / Marten Postma          | Machine Learning / Ignacio Arganda-Carreras | Presentations  |
-| Morning 2   | Workflow lecture, Stéphane Verger          | continued                           | continued                                   | Presentations  |
-| Afternoon 1 | Workflow Deconstruction by Stéphane Verger | Python Data Analysis / Plotting     | Selected Workflow Presented by Students     | (Forum)        |
-| Afternoon 2 | continued.                                 | Workflow Deconstruction by students | Workflow Deconstruction by students         | (Forum)        |
+|             | Day 1 (Feb. 29)                            | Day 2 (Mar. 1)                  | Day 3 (Mar. 2)                              | Day 4 (Mar. 3)            |
+| ----------- | ------------------------------------------ | ------------------------------- | ------------------------------------------- | ------------------------- |
+| Morning 1   | Introduction                               | Statistics / Marten Postma      | Machine Learning / Ignacio Arganda-Carreras | Presentations             |
+| Morning 2   | Workflow lecture, Stéphane Verger          | continued                       | continued                                   | Presentations             |
+| Afternoon 1 | Workflow Deconstruction by Stéphane Verger | Python Data Analysis / Plotting | Selected Workflow Presented by Students     | (Analyst's Satellite Mtg) |
+| Afternoon 2 | continued.                                 | Implementation                  | Implementation                              | (Analyst's Satellite Mtg) |
 
-The school is based on the concepts of "workflows and components" in bioimage analysis ([more details here](https://link.springer.com/chapter/10.1007/978-3-030-22386-1_1)) and will be with four types of modules: **Workflow Deconstruction**, **Advanced Usage of Workflow Components**, and **Implementation**. 
+The school is based on the concepts of "workflows and components" in bioimage analysis ([more details here](https://link.springer.com/chapter/10.1007/978-3-030-22386-1_1)) and will be with four types of modules: **Workflow Deconstruction**, **Advanced Usage of Workflow Components**, and **Implementation** (Workflow Deconstruction by students). 
 
 In **Workflow Deconstruction**, we first reproduce the workflow instructed by the author. 
 
@@ -57,7 +60,7 @@ In **Workflow Deconstruction**, we first reproduce the workflow instructed by th
 
 In **Advanced Usage of Workflow Components**, invited experts present in-depth explanation about workflow components, and explain effcient access to the API (We call this **API-beating**). This training is aiming to encourage participants to expand their skill and technique to utilize cutting-edge components in their workflow they construct in future. 
 
-In **Worlflow Deconstruction by Students**, participants are split into several groups, and each group make trials based on their own idea to do modifications / replacements / benchmarking. For example:
+In **Implementation (Worlflow Deconstruction by Students)**, participants are split into several groups, and each group make trials based on their own idea to do modifications / replacements / benchmarking. For example:
 
 1. The full workflow running in different ecosystems
 2. a part of the workflow replaced with a different component.
@@ -125,9 +128,8 @@ School participants are asked to present their implementations (by group) on the
 
 ## Time Table
 
-Partially tentaive...
+Partially tentaive ( [google sheet link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&single=true) )
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200"></iframe>
-
 
 It's going to be great!
