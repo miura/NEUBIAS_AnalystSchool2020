@@ -10,9 +10,9 @@ Organizers:
 
 ## Aim
 
-The aim of NEUBIAS Bioimage Analyst School is to provide **bioimage analysts** with practical access to the latest bioimage analysis workflows and their components [1]. Many tools for bioimage analysis are updated and new ones are appearing on daily basis, but analysts tend to be constrained to what one knows already. They are too busy to test and use all those new tools. We hope that this school will be a good chance for analysts to test something new by the exposure to workflows and their components, and also to widen their scope and broaden their skills. In addition to this primary aim, the school also aims for the community buidling amond bioimage analysis experts - it's always good to have friends with similar interests!
+The aim of NEUBIAS Bioimage Analyst School is to provide **bioimage analysts** with practical access to the latest bioimage analysis workflows and their components [1]. Many tools for bioimage analysis are updated and new ones are appearing on daily basis, but analysts tend to be constrained to what one knows already. They are too busy to test and use all those new tools. We hope that this school will be a good chance for analysts to test something new by the exposure to workflows and their components, and also to widen their scope and broaden their skills. In addition to this primary aim, the school also aims for the community building among bioimage analysis experts - it's always good to have friends with similar interests!
 
-The program is evolving every year. The program in Bordeaux is designed based on the experiences in three prvious schools in Lisbon (2017), Szeged (2018) and Luxembourg (2019). As many of the participants commented that we need to have more modules with statistical treatments of data, we will have a stronger focus on those aspects in this school, for example in the context of recent announcements from the statistics community [2-4]... but more.  The school is followed by a half-day "**BioImage Analyst Satellite Meeting**", accepting more participants than the school, where bioimage analysts exchange practical information and discuss in a non-formal interactive sessions. 
+The program is evolving every year. The program in Bordeaux is designed based on the experiences in three previous schools in Lisbon (2017), Szeged (2018) and Luxembourg (2019). As many of the participants commented that we need to have more modules with statistical treatments of data, we will have a stronger focus on those aspects in this school, for example in the context of recent announcements from the statistics community [2-4]... but more.  The school is followed by a half-day "**BioImage Analyst Satellite Meeting**", accepting more participants than the school, where bioimage analysts exchange practical information and discuss in a non-formal interactive sessions. 
 
 1. Miura, Paul-Gilloteaux, Tosi, & Julien Colombelli. “Workflows and Components of Bioimage Analysis.” In Bioimage Data Analysis Workflows, edited by Kota Miura and Nataša Sladoje, 1–7. Learning Materials in Biosciences. Cham: Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-22386-1_1.
 
@@ -67,9 +67,9 @@ In **Workflow Deconstruction**, we first reproduce the workflow instructed by th
 - Components and algorithms used: discuss alternatives
 - The overall design of the workflow: could there be better ways, better tools?
 
-In **Advanced Usage of Workflow Components**, invited experts present in-depth explanation about workflow components, and explain effcient access to the API (We call this **API-beating**). This training is aiming to encourage participants to expand their skill and technique to utilize cutting-edge components in their workflow they construct in future. 
+In **Advanced Usage of Workflow Components**, invited experts present in-depth explanation about workflow components, and explain efficient access to the API (We call this **API-beating**). This training is aiming to encourage participants to expand their skill and technique to utilize cutting-edge components in their workflow they construct in future. 
 
-In **Implementation (Worlflow Deconstruction by Students)**, participants are split into several groups, and each group make trials based on their own idea to do modifications / replacements / benchmarking. For example:
+In **Implementation (Workflow Deconstruction by Students)**, participants are split into several groups, and each group make trials based on their own idea to do modifications / replacements / benchmarking. For example:
 
 1. The full workflow running in different ecosystems
 2. a part of the workflow replaced with a different component.
@@ -95,7 +95,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
    - The paper
      - **Verger, S.**, Long, Y., Boudaoud, A., Hamant, O. (2018). **A tension-adhesion feedback loop in plant epidermis.** eLife. 7, e34460. (https://elifesciences.org/articles/34460)
      - Erguvan, O., **Louveaux, M**., Hamant, O., **Verger, S**. (2019) ImageJ SurfCut: a user-friendly pipeline for high-throughput extraction of cell contours from 3D image stacks. BMC Biology, 17:38. (https://doi.org/10.1186/s12915-019-0657-1)
-- Details of [Preparation and Homeworks]()
+- Details of [Preparation and Homework]()
 
 
 ## Advanced Workflow Components
@@ -117,12 +117,12 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 - Lead: [Arianne Bercowsky Rama](https://people.epfl.ch/arianne.bercowskyrama?lang=en) 
   
-### 3: Machine Leraning / Deep Learning
+### 3: Machine Learning / Deep Learning
 
   - Lead: [Ignacio Arganda-Carreras](https://sites.google.com/site/iargandacarreras/) 
   - Topics (tentative)
       - Overview, Machine Learning & Deep Learning
-      - Tweeking Advanced Weka Segmentation
+      - Tweaking Advanced Weka Segmentation
       - DeepIJ with normal computational resources
 
 ## Workflows, Student Presentations
@@ -137,7 +137,7 @@ School participants are asked to present their implementations (by group) on the
 
 ## Time Table
 
-Partially tentaive ( [google sheet link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&single=true) )
+Partially tentative ( [google sheet link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&single=true) )
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200"></iframe>
 It's going to be great!
