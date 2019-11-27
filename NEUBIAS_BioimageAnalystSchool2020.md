@@ -13,13 +13,13 @@ The aim of NEUBIAS Bioimage Analyst School is to provide **bioimage analysts** w
 
 The program is evolving every year. The program in Bordeaux is designed based on the experiences in three prvious schools in Lisbon (2017), Szeged (2018) and Luxembourg (2019). As many of the participants commented that we need to have more modules with statistical treatments of data, we will have a stronger focus on those aspects in this school, for example in the context of recent announcements from the statistics community [2-4]... but more.  The school is followed by a half-day "**BioImage Analyst Satellite Meeting**", accepting more participants than the school, where bioimage analysts exchange practical information and discuss in a non-formal interactive sessions. 
 
-[1] Miura, Paul-Gilloteaux, Tosi, & Julien Colombelli. “Workflows and Components of Bioimage Analysis.” In Bioimage Data Analysis Workflows, edited by Kota Miura and Nataša Sladoje, 1–7. Learning Materials in Biosciences. Cham: Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-22386-1_1.
+1. Miura, Paul-Gilloteaux, Tosi, & Julien Colombelli. “Workflows and Components of Bioimage Analysis.” In Bioimage Data Analysis Workflows, edited by Kota Miura and Nataša Sladoje, 1–7. Learning Materials in Biosciences. Cham: Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-22386-1_1.
 
-[2] [The ASA Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.XInvWyPMzyW)
+2. [The ASA Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.XInvWyPMzyW)
 
-[3] [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9)
+3. [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9)
 
-[4] [The Significant Problem of P Values](https://www.scientificamerican.com/article/the-significant-problem-of-p-values/)
+4. [The Significant Problem of P Values](https://www.scientificamerican.com/article/the-significant-problem-of-p-values/)
 
 ## Place and Time
 
