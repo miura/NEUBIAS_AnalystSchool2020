@@ -30,9 +30,11 @@ The program is evolving every year. The program in Bordeaux is designed based on
 
 [Centre Broca Nouvelle-Aquitaine](https://www.bordeaux-neurocampus.fr/)
 
-Bordeaux, France: [Google Map](https://goo.gl/maps/8hU1FyiToT3Nny4c6)
+Bordeaux, France: [Google Map](https://goo.gl/maps/8hU1FyiToT3Nny4c6)    
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45277.46375575833!2d-0.642675486419145!3d44.82479387899598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd54d8716928ac87%3A0x7e5eeebd95bcb30d!2sCenter%20Broca%20Nouvelle-Aquitaine!5e0!3m2!1sen!2sde!4v1574854999325!5m2!1sen!2sde" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<p align="center">
+<img src="TS15_location.PNG" height="500">
+</p>
 
 
 ### Time
@@ -139,5 +141,4 @@ School participants are asked to present their implementations (by group) on the
 
 Partially tentative ( [google sheet link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&single=true) )
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200"></iframe>
 It's going to be great!
