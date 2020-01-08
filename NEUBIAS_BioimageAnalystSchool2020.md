@@ -87,7 +87,7 @@ Please bring your own laptop! We do not provide machines.
 
 We expect some fluency in at least one programming language. We do not teach coding, but intensively do coding using several different languages. Skills / flexibility to follow such sessions are a prerequisite. Specific workflow organizers will however provide some 'homework' to prepare for their module, containing leads to learn a language and prepare for the installation of the required softwares on your laptop.
 
-**There will be no helpers during all sessions. ** We rather promote attending bioimage analysts to to help each other, also for the networking.
+**There will be no helpers during all sessions.** We rather promote attending bioimage analysts to to help each other, also for the networking.
 
 During registration, the applicant is asked to submit at least one bioimage analysis workflow that one has authored / worked on (starting with a specific biological question, describe the workflow in a short paragraph and the type of results: numbers, plots and/or visualization - does not have to be a published paper). Among these applicants, some are selected for presentation as "Workflow Deconstruction" session and lead the session. 
 
@@ -97,6 +97,8 @@ During registration, the applicant is asked to submit at least one bioimage anal
    - The paper
      - **Verger, S.**, Long, Y., Boudaoud, A., Hamant, O. (2018). **A tension-adhesion feedback loop in plant epidermis.** eLife. 7, e34460. (https://elifesciences.org/articles/34460)
      - Erguvan, O., **Louveaux, M**., Hamant, O., **Verger, S**. (2019) ImageJ SurfCut: a user-friendly pipeline for high-throughput extraction of cell contours from 3D image stacks. BMC Biology, 17:38. (https://doi.org/10.1186/s12915-019-0657-1)
+   - The [GitHub repo](https://github.com/sverger/SurfCut)
+   
 - Details of [Preparation and Homework]()
 
 
@@ -139,6 +141,6 @@ School participants are asked to present their implementations (by group) on the
 
 ## Time Table
 
-Partially tentative ( [google sheet link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&single=true) )
+Tentative schedule: [google sheet link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkYCOvhYFrdBakOI3rvroARG2aRfwubFaOGTyvLI9ml-49WBP2A011Q7l_PLn4rUcHaXn2N7O4gmU/pubhtml?gid=0&single=true) 
 
 It's going to be great!
