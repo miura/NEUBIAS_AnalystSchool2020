@@ -49,12 +49,12 @@ Feb 29 (Sat), 11:00  - Mar 3 (Tue) 13:00, 2019
 
 ## The program 
 
-|             | Day 1 (Feb. 29)                            | Day 2 (Mar. 1)                  | Day 3 (Mar. 2)                              | Day 4 (Mar. 3)            |
-| ----------- | ------------------------------------------ | ------------------------------- | ------------------------------------------- | ------------------------- |
-| Morning 1   | Introduction                               | Statistics / Marten Postma      | Machine Learning / Ignacio Arganda-Carreras | Presentations             |
-| Morning 2   | Workflow lecture, Stéphane Verger          | continued                       | continued                                   | Presentations             |
-| Afternoon 1 | Workflow Deconstruction by Stéphane Verger | Python Data Analysis / Plotting | Selected Workflow Presented by Students     | (Analyst's Satellite Mtg) |
-| Afternoon 2 | continued.                                 | Implementation                  | Implementation                              | (Analyst's Satellite Mtg) |
+|             | Day 1 (Feb. 29)                            | Day 2 (Mar. 1)                  | Day 3 (Mar. 2)                              | Day 4 (Mar. 3)                          |
+| ----------- | ------------------------------------------ | ------------------------------- | ------------------------------------------- | --------------------------------------- |
+| Morning 1   | Introduction                               | Statistics / Marten Postma      | Machine Learning / Ignacio Arganda-Carreras | P-values / Estibalitz Gomez de Mariscal |
+| Morning 2   | Workflow lecture, Stéphane Verger          | continued                       | continued                                   | Presentations                           |
+| Afternoon 1 | Workflow Deconstruction by Stéphane Verger | Python Data Analysis / Plotting | Selected Workflow Presented by Students     | (Analyst's Satellite Mtg)               |
+| Afternoon 2 | continued.                                 | Implementation                  | Implementation                              | (Analyst's Satellite Mtg)               |
 
 The school is based on the concepts of "workflows and components" in bioimage analysis ([more details here](https://link.springer.com/chapter/10.1007/978-3-030-22386-1_1)) and will be with four types of modules: **Workflow Deconstruction**, **Advanced Usage of Workflow Components**, and **Implementation** (Workflow Deconstruction by students). 
 
@@ -128,6 +128,12 @@ During registration, the applicant is asked to submit at least one bioimage anal
       - Overview, Machine Learning & Deep Learning
       - Tweaking Advanced Weka Segmentation
       - DeepIJ with normal computational resources
+
+###  Lecture: Use of the p-value as a size-dependent function: model and applications
+
+- Speaker: [Estibalitz Gomez de Marisca]l(https://image.hggm.es/en/estibaliz-gomez)
+- A talk based on her preprint: "Confronting p-hacking: addressing p-value dependence on sample size", bioarxiv, doi: https://doi.org/10.1101/2019.12.17.878405
+
 
 ## Workflows, Student Presentations
 
