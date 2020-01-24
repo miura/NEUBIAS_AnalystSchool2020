@@ -51,7 +51,7 @@ Feb 29 (Sat), 11:00  - Mar 3 (Tue) 13:00, 2019
 
 |             | Day 1 (Feb. 29)                            | Day 2 (Mar. 1)                  | Day 3 (Mar. 2)                              | Day 4 (Mar. 3)            |
 | ----------- | ------------------------------------------ | ------------------------------- | ------------------------------------------- | ------------------------- |
-| Morning 1   | Introduction                               | Statistics / Marten Postma      | Machine Learning / Ignacio Arganda-Carreras | Presentations             |
+| Morning 1   | Introduction                               | Statistics / Marten Postma      | Machine Learning / Ignacio Arganda-Carreras | p-value /  Estibaliz Gómez-de-Mariscal             |
 | Morning 2   | Workflow lecture, Stéphane Verger          | continued                       | continued                                   | Presentations             |
 | Afternoon 1 | Workflow Deconstruction by Stéphane Verger | Python Data Analysis / Plotting | Selected Workflow Presented by Students     | (Analyst's Satellite Mtg) |
 | Afternoon 2 | continued.                                 | Implementation                  | Implementation                              | (Analyst's Satellite Mtg) |
@@ -98,8 +98,6 @@ During registration, the applicant is asked to submit at least one bioimage anal
      - **Verger, S.**, Long, Y., Boudaoud, A., Hamant, O. (2018). **A tension-adhesion feedback loop in plant epidermis.** eLife. 7, e34460. (https://elifesciences.org/articles/34460)
      - Erguvan, O., **Louveaux, M**., Hamant, O., **Verger, S**. (2019) ImageJ SurfCut: a user-friendly pipeline for high-throughput extraction of cell contours from 3D image stacks. BMC Biology, 17:38. (https://doi.org/10.1186/s12915-019-0657-1)
    - The [GitHub repo](https://github.com/sverger/SurfCut)
-   
-- Details of [Preparation and Homework]()
 
 
 ## Advanced Workflow Components
@@ -128,6 +126,10 @@ During registration, the applicant is asked to submit at least one bioimage anal
       - Overview, Machine Learning & Deep Learning
       - Tweaking Advanced Weka Segmentation
       - DeepIJ with normal computational resources
+      
+### 4: p-value
+
+   - Lead: [Estibaliz Gómez-de-Mariscal](https://researchportal.uc3m.es/display/inv45180)        
 
 ## Workflows, Student Presentations
 
@@ -136,7 +138,7 @@ Some workflows submitted by participants during registration will be selected fo
 
 ## Implementations / Presentations
 
-School participants are asked to present their implementations (by group) on the last day of the school. 7 groups, 15 minutes presentation + 5 minutes questions and answers. 
+School participants are asked to present their implementations (by group) on the last day of the school. 6 groups of 6 persons, 10 minutes presentation + 5 minutes questions and answers. 
 
 
 ## Time Table
