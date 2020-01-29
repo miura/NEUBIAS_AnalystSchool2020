@@ -31,7 +31,9 @@ Synapto-pHluorin is a marker that allows the measurement of synaptic vesicle rel
 
 Previously quantification of this dynamic required manual segmentation performed by identifying small areas of increased intensity in a large field of view. An automatic segmentation of the noise and background rich images was hampered by varying imaging conditions for different experimental sets, requiring painstaking optimization of many different segmentation parameters.
 
-I have written an ImageJ plugin that allows an easy and interactive adjustment of the different parameters for the automatic segmentation. Segmentation is performed using a marker controlled watershed and the fluorescent traces are measured over the length of the movie. I further automated the analysis and visualization of the extracted traces using R providing the analysis as an interactive R shiny server.  
+I have written an ImageJ plugin that allows an easy and interactive adjustment of the different parameters for the automatic segmentation. Segmentation is performed using a marker controlled watershed and the fluorescent traces are measured over the length of the movie. I further automated the analysis and visualization of the extracted traces using R providing the analysis as an interactive R shiny server. 
+
+Link to plugin: https://github.com/schmiedc/pHluorinJ
 
 ### Collections and Components 
 
