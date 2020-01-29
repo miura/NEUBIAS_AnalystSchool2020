@@ -34,8 +34,8 @@ I have written an ImageJ plugin that allows an easy and interactive adjustment o
 
 ### Collections and Components 
 
-Collection: ImageJ, Fiji, R, shiny 
+Collection: ImageJ, Fiji, MorphoLibJ, R, shiny 
 
 Components Used: Marker controlled watershed, 
 laplacian of gaussian,
-morphological processing, 
+morphological gradients
