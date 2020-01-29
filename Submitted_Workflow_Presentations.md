@@ -23,7 +23,8 @@ I will present a pipeline developed in ImageJ (jython) that combines multiple ex
 
 ## Easy to use automatic analysis of synaptic vesicle dynamics
 
-**Dr. Christopher Schmied**
+**Christopher Schmied**
+
 [Bioimage Analyst - Cellular Imaging Core Facility, Berlin, Germany](https://www.leibniz-fmp.de/core-facilities/cellular-imaging/lehmann/research.html)
 
 Synapto-pHluorin is a marker that allows the measurement of synaptic vesicle release and recycling in neurons. The user acquires a time-lapse of neurons in which synaptic vesicles are tagged with synapto-pHluorin. Electro-stimulation induces the release of vesicles  leading to a bright fluorescence of the marker, which is subsequently quenched during their re-uptake. 
