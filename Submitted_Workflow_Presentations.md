@@ -42,3 +42,25 @@ Collection: ImageJ, Fiji, MorphoLibJ, R, shiny
 Components Used: Marker controlled watershed, 
 laplacian of gaussian,
 morphological gradients
+
+
+
+## Describing the Average State of Dynamic Epithelial Cells
+
+**Peran Hayes**  
+Postdoc: [Biophysics of Morphogenesis Lab]( http://biofisika.org/research-lines/biophysics-of-morphogenesis/), Biofisika Basque Centre for Biophysics UPV/EHU, Bilbao
+and [Biomechanics of Morphogenesis Lab]( https://www.crg.eu/en/programmes-groups/solon-lab), Centre for Genomic Regulation (CRG), Barcelona
+
+### Collections and Components 
+
+Collection: [Packing Analyzer](https://idisk-srv1.mpi-cbg.de/~eaton/) and Python
+
+Components Used: scipy
+
+### Workflow Outline
+
+We observed dynamic oscillations occurring in the amnioserosa, an epithelial tissue that covers the closing gap of a drosophila embryo during dorsal closure - a process in late stage embryogenesis. Amnioserosa cells are pulsatile, displaying waves of actomyosin that pass through them concurrently with oscillations in their area. By squeezing embryos using a micromanipulator, we could stretch the cells and arrest the oscillations. In the arrested state, the actomyosin waves stopped and myosin localised to the cell junctions. After release, cell oscillations would synchronise for one pulse and for a short period afterwards exhibited ruffled junctions.
+
+To quantify these observations we defined a "Scaled Averaged Cell", allowing us to descrbe the changes between an average cell in each state. Cells were segmented and tracked during each phase (pre-, during- and post-stretch) using Packing Analyzer software (https://idisk-srv1.mpi-cbg.de/~eaton/). For each cell at each time-point, I measured radial centroid-junction distances for increasing angles from the anterio-posterior axis of the embryo. Averaging these distances gives a mean cell shape. I then repeated the process, measuring intensity profiles of fluorescent molecules (labelling myosin and E-cadherin) along centroid junction lengths at increasing angles from the A-P axis. These radial intensity profiles were then rescaled to fit onto the average cell shape, and averaged across many cells and time points. In this way I was able to describe average cell shapes and molecular localisations for each phase (pre- during- and post-stratch).
+
+More detail on this work can be found here: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6291457/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6291457/)
