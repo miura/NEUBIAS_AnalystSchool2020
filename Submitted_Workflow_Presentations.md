@@ -23,9 +23,16 @@ I will present a pipeline developed in ImageJ (jython) that combines multiple ex
 
 ## Easy to use automatic analysis of synaptic vesicle dynamics
 
-**Christopher Schmied**
-
+**Christopher Schmied**         
 [Bioimage Analyst - Cellular Imaging Core Facility, Berlin, Germany](https://www.leibniz-fmp.de/core-facilities/cellular-imaging/lehmann/research.html)
+
+### Collections and Components 
+
+Collection: ImageJ, Fiji, MorphoLibJ, R, shiny 
+
+Components Used: Marker controlled watershed, laplacian of gaussian, morphological gradients
+
+### Workflow Outline
 
 Synapto-pHluorin is a marker that allows the measurement of synaptic vesicle release and recycling in neurons. The user acquires a time-lapse of neurons in which synaptic vesicles are tagged with synapto-pHluorin. Electro-stimulation induces the release of vesicles  leading to a bright fluorescence of the marker, which is subsequently quenched during their re-uptake. 
 
@@ -35,27 +42,22 @@ I have written an ImageJ plugin that allows an easy and interactive adjustment o
 
 Link to plugin: https://github.com/schmiedc/pHluorinJ
 
-### Collections and Components 
 
-Collection: ImageJ, Fiji, MorphoLibJ, R, shiny 
-
-Components Used: Marker controlled watershed, 
-laplacian of gaussian,
-morphological gradients
 
 ## Quantification of the deformation of pericardium in zebrafish
 
-**Elena Remacha**
-
+**Elena Remacha**        
 [PhD Student - Mechano-genetic interplays and embryonic morphogenesis, IGBMC Strasbourg, France](http://www.igbmc.fr/research/department/1/team/15/)
- 
-Epicardium in the zebrafish is formed by a pool of cells that cluster and detach from the pericardial wall. To understand the role of mechanical forces on this process, we want to assess the stretching of the pericardium in the region where the cluster forms.
-
-I use a spinning disk confocal to acquire 2D+t stacks. Post acquisition I reconstruct into a 3D+t beating heart. After this point I follow two different pipelines. For the actin, I manually create a mask to exclude signal coming from the heart and detect the pericardial wall automatically and follow it during the heartbeat. For the nuclei, I use Imaris to track the nuclei and then calculate the relative distances between them.
 
 ### Collections and Components 
 
 Collection: ImageJ, Matlab, Imaris 
+
+### Workflow Outline
+
+Epicardium in the zebrafish is formed by a pool of cells that cluster and detach from the pericardial wall. To understand the role of mechanical forces on this process, we want to assess the stretching of the pericardium in the region where the cluster forms.
+
+I use a spinning disk confocal to acquire 2D+t stacks. Post acquisition I reconstruct into a 3D+t beating heart. After this point I follow two different pipelines. For the actin, I manually create a mask to exclude signal coming from the heart and detect the pericardial wall automatically and follow it during the heartbeat. For the nuclei, I use Imaris to track the nuclei and then calculate the relative distances between them.
 
 
 ## Describing the Average State of Dynamic Epithelial Cells
