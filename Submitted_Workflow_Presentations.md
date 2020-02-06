@@ -13,7 +13,7 @@ Selected workflows for presentation, initially submitted for the school applicat
 
 Collection: Fiji (Jython), Python
 
-Components Used: TBA
+Components Used: Grid/Collection Stitching, MinCostZSurface, OrientationJ
 
 ### Workflow Outline
 
