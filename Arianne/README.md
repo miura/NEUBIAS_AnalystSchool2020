@@ -150,14 +150,7 @@ bokeh.io.show(p)
     
 ## Sample Data
 
-- Approximate total size of sample data set: ()
-- Capturing conditions
-   - organism: ()
-   - labeled protein: ()
-   - microscopy: ()
-   - spatial resolution: ()
-   - time resolution [dt]: ()
-- Location: (from Internet - then URL or "will be locally distributed in the school") 
+The data used for this session can be found in the [Dataset](https://github.com/bercowskya/NEUBIAS_AnalystSchool2020/tree/master/Arianne/Dataset) folder in this GitHub repository. The size of the folder is 21.9 MB and it contains several example .csv files which will be used for the purpose of understanding how to handle and plot data using python.  
 
 ## Resources
 
