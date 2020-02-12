@@ -6,7 +6,7 @@ Estibaliz Gómez-de-Mariscal, Universidad Carlos III de Madrid
  
 ## Abstract
 
-**Use of the *p-value* as a size-dependent function: model and applications **
+**Use of the** ***p-value*** **as a size-dependent function: model and applications**
 
 The use of the statistical *p-value* as a deterministic index is largely extended in scientific research. Like any other statistical method, it is defined as a quantitative measure to make objective conclusions. 
 However, this measure saturates with the size of the data: the common threshold 0.05 is easily reachable whenever the available dataset is large enough or when the right combination of data is subject to the null-hypothesis testing. 
@@ -23,7 +23,7 @@ In the second part, different examples will be presented to reflect the scope of
 
 ## Software Installation
 
-The entire software can be downloaded from the [pMoSS: *p-value* Model using the Sample Size](https://github.com/BIIG-UC3M/pMoSS) repository. 
+The entire software can be downloaded from the [pMoSS](https://github.com/BIIG-UC3M/pMoSS) repository. 
 There you will find some instructions and videos that show how to run the code with the example data and how to use this method with your data. 
 
 
