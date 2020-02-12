@@ -1,5 +1,9 @@
 # Python Data Analysis and Plotting
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fbercowskya%2FNEUBIAS_AnalystSchool2020.git/master)
+
+** In case of trouble when installing Anaconda or any of the packages, the link above allows you to follow the session without the need of any installation. However, I recommend you try to download the packages and Anaconda for future use since Binder is just a Docker**
+
 ## Author
 
 Arianne Bercowsky Rama, EPFL
