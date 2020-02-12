@@ -1,0 +1,14 @@
+numpy
+matplotlib
+matplotlib-scalebar
+pandas
+scipy
+scikit-image
+scikit-learn
+seaborn
+pyviz
+watermark
+black
+blackcellmagic
+bokeh-catplot
+bootcamp_utils
