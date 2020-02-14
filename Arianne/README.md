@@ -63,11 +63,7 @@ conda works from the command line.  Now that you know how to get a command line 
 
     conda update --all
   
-We will now make a new environment (here called `ts15-plot`) and install the necessary packages, e.g. like this:
 
-    conda create --name ts15-plot python=3.6
-    conda activate ts13-plot
-    
 We will first install some plotting packages we need, which are available as [PyViz](http://pyviz.org).
 
     conda install -c pyviz pyviz
