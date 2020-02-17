@@ -107,7 +107,9 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 ###  1: Dealing with Numbers: Statistics, p-value
 
-- Lead: [Estibaliz Gómez-de-Mariscal](https://researchportal.uc3m.es/display/inv45180) 
+- Lead: [Estibaliz Gómez-de-Mariscal](https://image.hggm.es/en/estibaliz-gomez) 
+Session based on her preprint: "Confronting p-hacking: addressing p-value dependence on sample size", bioarxiv, doi: https://doi.org/10.1101/2019.12.17.878405  
+
 - Topics (tentative)
   - Accuracy of measurements) 
   - Standard deviation vs standard error 
@@ -134,13 +136,6 @@ During registration, the applicant is asked to submit at least one bioimage anal
       - DeepIJ with normal computational resources
       
        
-
-###  Lecture: Use of the p-value as a size-dependent function: model and applications
-
-- Speaker: [Estibalitz Gomez de Marisca]l(https://image.hggm.es/en/estibaliz-gomez)
-- A talk based on her preprint: "Confronting p-hacking: addressing p-value dependence on sample size", bioarxiv, doi: https://doi.org/10.1101/2019.12.17.878405
-
-
 ## Workflows, Student Presentations
 
 Some workflows submitted by participants during registration will be selected for presentation during the school.   
