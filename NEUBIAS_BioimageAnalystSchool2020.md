@@ -52,10 +52,10 @@ Feb 29 (Sat), 11:00  - Mar 3 (Tue) 13:00, 2019
 
 |             | Day 1 (Feb. 29)                            | Day 2 (Mar. 1)                  | Day 3 (Mar. 2)                              | Day 4 (Mar. 3)            |
 | ----------- | ------------------------------------------ | ------------------------------- | ------------------------------------------- | ------------------------- |
-| Morning 1   | Introduction                               | Statistics / Marten Postma      | Machine Learning / Ignacio Arganda-Carreras | p-value /  Estibaliz Gómez-de-Mariscal             |
-| Morning 2   | Workflow lecture, Stéphane Verger          | continued                       | continued                                   | Presentations             |
-| Afternoon 1 | Workflow Deconstruction by Stéphane Verger | Python Data Analysis / Plotting | Selected Workflow Presented by Students     | (Analyst's Satellite Mtg) |
-| Afternoon 2 | continued.                                 | Implementation                  | Implementation                              | (Analyst's Satellite Mtg) |
+| **Morning 1**   | Introduction                               |  Dealing with Numbers: Statistics, p-value, Estibaliz Gomez de Mariscal      | Machine Learning, Ignacio Arganda-Carreras | Group work on Workflow deconstruction             |
+| **Morning 2**   | Workflow lecture, Stéphane Verger          | Python Data Analysis & Plotting, Arianne Bercowsky-Rama                       | Machine Learning (continued)              | Group presentations             |
+| **Afternoon 1** | Workflow Deconstruction, Stéphane Verger | Python (continued) + Data visualization, Marion Louveaux | Selected Workflow Presented by Students     | (Analyst's Satellite Meeting) |
+| **Afternoon 2** | Group work on Workflow deconstruction     | Group work on Workflow deconstruction   | Group work on Workflow deconstruction     | (Analyst's Satellite Meeting) |
 
 
 The school is based on the concepts of "workflows and components" in bioimage analysis ([more details here](https://link.springer.com/chapter/10.1007/978-3-030-22386-1_1)) and will be with four types of modules: **Workflow Deconstruction**, **Advanced Usage of Workflow Components**, and **Implementation** (Workflow Deconstruction by students). 
@@ -105,9 +105,9 @@ During registration, the applicant is asked to submit at least one bioimage anal
 ## Advanced Workflow Components
 
 
-###  1: Dealing with Numbers: Statistics
+###  1: Dealing with Numbers: Statistics, p-value
 
-- Lead: [Marten Postma](http://www.martenpostma.nl/science/)
+- Lead: [Estibaliz Gómez-de-Mariscal](https://researchportal.uc3m.es/display/inv45180) 
 - Topics (tentative)
   - Accuracy of measurements) 
   - Standard deviation vs standard error 
@@ -120,6 +120,10 @@ During registration, the applicant is asked to submit at least one bioimage anal
 ### 2: Python Data Analysis / Plotting Libraries
 
 - Lead: [Arianne Bercowsky Rama](https://people.epfl.ch/arianne.bercowskyrama?lang=en) 
+
+### 3: Introduction to data visualization  
+
+- Lead: [Marion Louveaux](https://marionlouveaux.fr/)
   
 ### 3: Machine Learning / Deep Learning
 
@@ -129,9 +133,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
       - Tweaking Advanced Weka Segmentation
       - DeepIJ with normal computational resources
       
-### 4: p-value
-
-   - Lead: [Estibaliz Gómez-de-Mariscal](https://researchportal.uc3m.es/display/inv45180)        
+       
 
 ###  Lecture: Use of the p-value as a size-dependent function: model and applications
 
@@ -141,7 +143,8 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 ## Workflows, Student Presentations
 
-Some workflows submitted by participants during registration will be selected for presentation during the school. 
+Some workflows submitted by participants during registration will be selected for presentation during the school.   
+Speakers: Christopher Schmied, Noreen Walker, Elena Remacha and Peran Hayes.         
 
 
 ## Implementations / Presentations
