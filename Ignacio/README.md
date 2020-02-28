@@ -22,7 +22,9 @@ Available as Google Slides [here](https://docs.google.com/presentation/d/1t9ifZT
 
 ## Sample Data
 
-TODO
+* For the color clustering example, download [color-clustering.zip](https://ehubox.ehu.eus/s/oSTa8H9NnBXSJpt).
+* For the shallow lerning example (with Trainable Weka Segmentation), download [EM-train-volume.zip](https://ehubox.ehu.eus/s/dyjdjRnNqxskBBQ).
+* For the deep learning example (Colab + DeepImageJ), add [this folder](https://drive.google.com/open?id=17NXRSWfvaeYtg6qHxhKTmBtvTfN4MEGD) to your Google Drive.
 
 ## References:
 
