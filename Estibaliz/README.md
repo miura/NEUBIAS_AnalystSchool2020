@@ -16,10 +16,12 @@ In the second one, we will move to a more trendy topic and we will try to answer
   - Statistical measures to characterize uncertainty 
   - Statistical sampling 
   - Sample size 
+  
 [Slides of Block 1](NEUBIAS_training_school_dealingwithnumbers.pdf)
 
 - Block 2: Use of the *p-value* as a size-dependent function: model and applications
   - Session based on the preprint: "Confronting p-hacking: addressing p-value dependence on sample size", bioRxiv, doi: https://doi.org/10.1101/2019.12.17.878405 
+  
 [Slides of Block 2](NEUBIAS_training_school2020.pdf)
 
 ## Abstract
@@ -49,3 +51,16 @@ There you will find some instructions and videos that show how to run the code w
 ## References:
 
 [1] E. Gómez-de-Mariscal, A. Sneider, H. Jayatilaka, J. M. Phillip, D. Wirtz and A. Muñoz-Barrutia, Confronting p-hacking: addressing p-value dependence on sample size, bioRxiv 2019, https://doi.org/10.1101/2019.12.17.878405 
+
+## Recommended reading
+
+- John P. A. Ioannidis, Why Most Published Research Findings Are False, *PLOS Medicine*, 2005, https://doi.org/10.1371/journal.pmed.0020124
+
+- Points of Significance, *Nature Methods*, https://www.nature.com/collections/qghhqm/pointsofsignificance
+
+- Statistics for Biologists, *Nature Methods*, https://www.nature.com/collections/qghhqm
+
+- Claus O. Wilke, Fundamentals of Data Visualization, https://serialmentor.com/dataviz/index.html
+
+
+
