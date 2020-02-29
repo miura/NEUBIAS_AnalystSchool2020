@@ -144,7 +144,7 @@ Speakers: Christopher Schmied, Noreen Walker, Elena Remacha and Peran Hayes.
 
 ## Implementations / Presentations
 
-School participants are asked to present their implementations (by group) on the last day of the school. 6 groups of 6 persons, 10 minutes presentation + 5 minutes questions and answers. 
+School participants are asked to present their implementations (by group) on the last day of the school. 7 groups of 4-5 persons, 10 minutes presentation + 5 minutes questions and answers. 
 
 
 ## Time Table
