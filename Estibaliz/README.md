@@ -1,9 +1,27 @@
-# Use of the *p-value* as a size-dependent function: model and applications
+
+# Dealing with Numbers: Surviving the post *p-values* era
 
 ## Author
 
 [Estibaliz Gómez-de-Mariscal](https://image.hggm.es/en/estibaliz-gomez), Biomedical Imaging and Instrumentation Group, Universidad Carlos III de Madrid
- 
+
+## Brief description of the session
+
+The session is divided in two blocks. During the first one we will cover some basic concepts about statistical sampling and measure estimation. 
+In the second one, we will move to a more trendy topic and we will try to answer a delicate question (or at least, discuss about it):
+ how to survive the post *p-value* era.  
+
+- Block 1: 
+  - Errors & Uncertainty
+  - Statistical measures to characterize uncertainty 
+  - Statistical sampling 
+  - Sample size 
+[Slides of Block 1](NEUBIAS_training_school_dealingwithnumbers.pdf)
+
+- Block 2: Use of the *p-value* as a size-dependent function: model and applications
+  - Session based on the preprint: "Confronting p-hacking: addressing p-value dependence on sample size", bioRxiv, doi: https://doi.org/10.1101/2019.12.17.878405 
+[Slides of Block 2](NEUBIAS_training_school2020.pdf)
+
 ## Abstract
 
 The use of the statistical *p-value* as a deterministic index is largely extended in scientific research. Like any other statistical method, it is defined as a quantitative measure to make objective conclusions. 
@@ -21,14 +39,13 @@ In the second part, different examples will be presented to reflect the scope of
 
 ## Software Installation
 
-The entire software can be downloaded from the [pMoSS](https://github.com/BIIG-UC3M/pMoSS) repository. 
+The method has been developed in Python and the entire software can be downloaded from the [pMoSS](https://github.com/BIIG-UC3M/pMoSS) repository. 
 There you will find some instructions and videos that show how to run the code with the example data and how to use this method with your data. 
 
 
 ## Resources
 [pMoSS: *p-value* Model using the Sample Size](https://github.com/BIIG-UC3M/pMoSS)
 
-[Slides](NEUBIAS_training_school2020.pdf)
 ## References:
 
 [1] E. Gómez-de-Mariscal, A. Sneider, H. Jayatilaka, J. M. Phillip, D. Wirtz and A. Muñoz-Barrutia, Confronting p-hacking: addressing p-value dependence on sample size, bioRxiv 2019, https://doi.org/10.1101/2019.12.17.878405 
